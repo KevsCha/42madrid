@@ -6,7 +6,7 @@
 /*   By: kquispe <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/06/02 12:51:48 by kquispe           #+#    #+#             */
-/*   Updated: 2023/06/02 14:19:16 by kquispe          ###   ########.fr       */
+/*   Updated: 2023/06/06 11:31:58 by kquispe          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 #include <unistd.h>
@@ -22,8 +22,9 @@ void	ft_print_alphabet(void)
 		c++;
 	}
 }
-
+/*
 int	main(void)
 {
 	ft_print_alphabet();
 }
+*/

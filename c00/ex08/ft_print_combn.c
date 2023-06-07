@@ -1,31 +1,25 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_print_reverse_alphabet.c                        :+:      :+:    :+:   */
+/*   ft_print_combn.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: kquispe <marvin@42.fr>                     +#+  +:+       +#+        */
+/*   By: kquispe <kquispe@student.42madrid.com>     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/06/02 14:24:04 by kquispe           #+#    #+#             */
-/*   Updated: 2023/06/06 11:34:05 by kquispe          ###   ########.fr       */
+/*   Created: 2023/06/06 05:50:27 by kquispe           #+#    #+#             */
+/*   Updated: 2023/06/07 02:55:59 by kquispe          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
 #include <unistd.h>
 
-void	ft_print_reverse_alphabet(void)
+void	ft_putchar(char c)
 {
-	char	x;
-
-	x = 'z';
-	while (x >= 'a')
-	{
-		write(1, &x, 1);
-		x--;
-	}
+	write(1, &c, 1);
 }
-/*
+
+
 int main()
 {
-	ft_print_reverse_alphabet();
+	ft_print_combn(4);
 	return(0);
 }
-*/
