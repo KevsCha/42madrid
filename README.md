@@ -8,7 +8,7 @@
 
 A continuación, se presenta una lista de los proyectos que he completado y en los que estoy trabajando actualmente en 42 Madrid:
 
-1. ## [`Piscina`]()
+1. ## [`Piscina`](https://github.com/KevsCha/42mad/tree/main/Piscina)
 
 - Descripción: La Piscina es el periodo intensivo de selección de 42 Madrid, donde los candidatos pasan un mes resolviendo problemas de programación y trabajando en equipo.
 - Estado: Completado
