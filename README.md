@@ -11,22 +11,22 @@ A continuación, se presenta una lista de los proyectos que he completado y en l
 1. ## [`Piscina`](https://github.com/KevsCha/42mad/tree/main/Piscina)
 
 - Descripción: La Piscina es el periodo intensivo de selección de 42 Madrid, donde los candidatos pasan un mes resolviendo problemas de programación y trabajando en equipo.
-- Estado: Completado
+- Estado: Completado :white_check_mark: :white_check_mark:
 
 2. ## [`Libft`](https://github.com/KevsCha/Libft.h)
 
 - Descripción: Implementación de una biblioteca personalizada en C que replica funciones de la biblioteca estándar de C.
-- Estado: Completado
+- Estado: Completado :white_check_mark: :white_check_mark:
 
 3. ## [`Get Next Line (GNL)`](https://github.com/KevsCha/Get_Next_Line) 
 
 - Descripción: Desarrollo de una función en C que permite leer una línea completa desde un descriptor de archivo, uno de los primeros proyectos que maneja la gestión dinámica de memoria.
-- Estado: Completado
+- Estado: Completado :white_check_mark: :white_check_mark:
 
 4. ## [`Ft_printf`](https://github.com/KevsCha/Printf_42) 
 
 - Descripción: Creación de una versión personalizada de la función printf en C, que es capaz de manejar una variedad de especificadores de formato.
-- Estado: Completado
+- Estado: Completado :white_check_mark: :white_check_mark:
 5. ## [`So_Long`](https://github.com/KevsCha/so_long) 
 
 - Descripción: Proyecto de administración de sistemas que implica la instalación y configuración de una máquina virtual con un sistema operativo basado en Unix.
