@@ -29,9 +29,8 @@ A continuación, se presenta una lista de los proyectos que he completado y en l
 - Estado: Completado :white_check_mark::white_check_mark:
 5. ## [`So_Long`](https://github.com/KevsCha/so_long) 
 
-- Descripción: Proyecto de administración de sistemas que implica la instalación y configuración de una máquina virtual con un sistema operativo basado en Unix.
+- Descripción: Descripción: Creación de un videojuego en 2D utilizando la biblioteca gráfica MiniLibX. El proyecto incluye la implementación de gráficos básicos, movimiento del personaje y la gestión de colisiones, brindando una introducción práctica al desarrollo de juegos y al uso de gráficos en C.
 - Estado: En Progreso :chart_with_upwards_trend::chart_with_upwards_trend:
-
 
 ## ¿Qué es 42 Madrid?
 42 Madrid es parte de una red global de academias de programación fundadas por Xavier Niel en Francia en 2013. Esta institución educativa es conocida por su enfoque disruptivo y accesible, donde no se requieren títulos previos ni conocimientos específicos para ingresar. Su metodología se basa en el aprendizaje peer-to-peer (entre pares) y en proyectos prácticos, fomentando el autoaprendizaje y la capacidad de resolver problemas de manera autónoma y colaborativa.
